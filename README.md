@@ -1,2 +1,2 @@
 # Edu-github
-This is testing one
+This is testing repo
